@@ -41,6 +41,7 @@ The supplied dataset contains:
 
 `customer_id` is excluded from predictive features.
 
+
 ## Project Structure
 
 ```text
@@ -61,6 +62,7 @@ customer-churn-ml-framing/
 ├── requirements.txt
 └── .gitignore
 ```
+
 
 ## Baseline Approach
 
